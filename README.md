@@ -4,5 +4,3 @@
 <p>Date : 28/04/2017</p>
 <p>Name of the module : Object Oriented Conception and Programming - Concepts and Practice</p>
 <p>Name of the school : Polytech Montpellier </p>
-
-![promisechains](https://raw.githubusercontent.com/Loriszirah/graphJava/master/Pink_Unicorn.png)
